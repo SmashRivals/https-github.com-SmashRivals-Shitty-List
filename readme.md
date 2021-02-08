@@ -1,4 +1,4 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
+# Welcome to the maintained my hardest level on geometry dash repo!
 ---
 There isnt much going on here at the moment but the list team will actively be adding new records and levels, so keep an eye out on the [website](https://gdshittylist.asemnada991.repl.co/).
 ---
@@ -35,34 +35,9 @@ More Coming Soon!
 # List Staff Team
 ---
 ## Owners:
-- Cyns
-- Cohvi
-- Acidius
-- Fulva
+- TheRedVirus
 ---
 ## List Admins:
-- GabeLucario
-- Kobra
--V1nnyy
----
-## List Moderators:
-- Goodyman
----
-## List Helpers:
-- Vink
-- Tril
-- TheConey
-- BlueStone
-- dots
----
-## Server Administrators:
-- Lupe
-- Nezzi
-- Electro
-- krissi
-- yeezo
-- Magma
----
-## Repo Maintainers:
-- Electro
-- Cyns
+- WalkTGM
+- WorldTGM
+- OldTGM
