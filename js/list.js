@@ -256,7 +256,7 @@ const d = {
 					"hz": "144hz"
 				},
 			],
-			"name": "Shitty Cold Sweat",
+			"name": "Shitty Phobos",
                        "author": "MP3141",
                        "more": "none",
                        "id": 64360108,
